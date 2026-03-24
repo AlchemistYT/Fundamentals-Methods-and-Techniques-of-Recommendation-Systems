@@ -1,0 +1,303 @@
+Men|Men|4.05188246097
+Men|Women|0.534848484848
+Women|Women|2.4357
+Jewelry_Men|Jewelry_Men|18.0102040816
+Jewelry_Men|Clothing_Women|4.27360774818
+Jewelry_Men|Shoes_Women|7.70436507937
+Jewelry_Men|Watches_Men|1.73891625616
+Accessories_Men|Accessories_Men|42.8993055556
+Accessories_Men|Clothing_Women|2.07744821092
+Accessories_Men|Shoes_Women|2.45138888889
+Accessories_Men|Clothing_Men|0.209520417854
+Watches_Women|Watches_Women|13.3459357278
+Watches_Women|Shoes_Women|2.55797101449
+Surf, Skate & Street_Men|Surf, Skate & Street_Men|423.6
+Handbags & Wallets_Women|Handbags & Wallets_Women|8.825
+Handbags & Wallets_Women|Jewelry_Women|14.7083333333
+Handbags & Wallets_Women|Shoes_Women|2.94166666667
+Petite_Women|Accessories_Women|15.0854700855
+Juniors_Women|Juniors_Women|3530.0
+Accessories_Women|Accessories_Women|18.2766272189
+Accessories_Women|Shoes_Women|1.13141025641
+Accessories_Women|Shoes_Men|4.11421911422
+Clothing_Women|Clothing_Women|1.35210188643
+Clothing_Women|Shoes_Women|0.997175141243
+Jewelry_Women|Clothing_Men|1.0056980057
+Shoes_Women|Shoes_Women|1.47083333333
+Shoes_Women|Clothing_Men|1.50854700855
+Watches_Men|Watches_Men|17.838882283
+Shoes_Men|Shoes_Men|6.48301193756
+Shoes_Men|Clothing_Men|2.74281274281
+Clothing_Men|Clothing_Men|15.0854700855
+Belts_Accessories_Women|Belts_Accessories_Women|48.0272108844
+Belts_Accessories_Women|Wristlets_Handbags & Wallets_Women|126.071428571
+Belts_Accessories_Women|Fashion_Jewelry_Women|28.0158730159
+Fashion Hoodies & Sweatshirts_Clothing_Women|Fashion Hoodies & Sweatshirts_Clothing_Women|98.0555555556
+Fashion Hoodies & Sweatshirts_Clothing_Women|Coats & Jackets_Clothing_Women|49.0277777778
+Fashion Hoodies & Sweatshirts_Clothing_Women|Lingerie, Sleep & Lounge_Clothing_Women|2.62648809524
+Fashion Hoodies & Sweatshirts_Clothing_Women|Oxfords_Shoes_Women|58.8333333333
+Sleep & Lounge_Clothing_Men|Sleep & Lounge_Clothing_Men|72.0408163265
+Sleep & Lounge_Clothing_Men|Underwear_Clothing_Men|18.0102040816
+Sleep & Lounge_Clothing_Men|Pants & Capris_Petite_Women|504.285714286
+Sleep & Lounge_Clothing_Men|Boots_Shoes_Men|19.3956043956
+Hats & Caps_Accessories_Men|Sunglasses & Eyewear Accessories_Accessories_Women|24.5138888889
+Hats & Caps_Accessories_Men|Leggings_Clothing_Women|32.6851851852
+Hats & Caps_Accessories_Men|Wristlets_Handbags & Wallets_Women|73.5416666667
+Hats & Caps_Accessories_Men|Necklaces_Jewelry_Men|49.0277777778
+Jumpsuits, Rompers & Overalls_Clothing_Women|Jumpsuits, Rompers & Overalls_Clothing_Women|392.222222222
+Jumpsuits, Rompers & Overalls_Clothing_Women|Earrings_Jewelry_Men|392.222222222
+Jumpsuits, Rompers & Overalls_Clothing_Women|Shoulder Bags_Handbags & Wallets_Women|106.96969697
+Jumpsuits, Rompers & Overalls_Clothing_Women|Socks & Hosiery_Clothing_Women|32.6851851852
+Sleep & Lounge_Maternity_Women|Sweaters_Maternity_Women|1765.0
+Top-Handle Bags_Handbags & Wallets_Women|Top-Handle Bags_Handbags & Wallets_Women|24.5138888889
+Top-Handle Bags_Handbags & Wallets_Women|Hats & Caps_Accessories_Women|26.7424242424
+Active_Clothing_Men|Active_Clothing_Men|12.214532872
+Active_Clothing_Men|Slippers_Shoes_Men|37.0798319328
+Active_Clothing_Men|Suspenders_Accessories_Men|17.3039215686
+Active_Clothing_Men|Leggings_Clothing_Women|23.0718954248
+Active_Clothing_Men|Underwear_Clothing_Men|29.6638655462
+Active_Petite_Women|Tops & Tees_Clothing_Women|23.5333333333
+Active_Petite_Women|Active_Clothing_Women|69.2156862745
+Active_Petite_Women|Boots_Shoes_Men|45.2564102564
+Religious_Jewelry_Men|Religious_Jewelry_Men|3530.0
+Jeans_Maternity_Women|Jeans_Maternity_Women|3530.0
+Jeans_Maternity_Women|Socks_Clothing_Men|441.25
+Slippers_Shoes_Women|Slippers_Shoes_Men|22.9220779221
+Slippers_Shoes_Women|Athletic_Shoes_Women|18.8770053476
+Slippers_Shoes_Women|Belts_Accessories_Men|11.8855218855
+Jackets & Coats_Clothing_Men|Jackets & Coats_Clothing_Men|24.5138888889
+Jackets & Coats_Clothing_Men|Hats & Caps_Accessories_Women|26.7424242424
+Jackets & Coats_Clothing_Men|Skirts_Clothing_Women|4.45707070707
+Jackets & Coats_Clothing_Men|Mules & Clogs_Shoes_Women|5.34848484848
+Jackets & Coats_Clothing_Men|Fashion Sneakers_Shoes_Men|24.5138888889
+Jackets & Coats_Clothing_Men|Underwear_Clothing_Men|0.875496031746
+Jackets & Coats_Clothing_Men|Shirts_Clothing_Men|30.9649122807
+Leggings_Plus-Size_Women|Leggings_Plus-Size_Women|3530.0
+Sunglasses & Eyewear Accessories_Accessories_Men|Sweaters_Clothing_Men|130.740740741
+Sunglasses & Eyewear Accessories_Accessories_Men|Evening Bags_Handbags & Wallets_Women|196.111111111
+Sunglasses & Eyewear Accessories_Accessories_Men|Boots_Shoes_Men|30.1709401709
+Fashion Hoodies & Sweatshirts_Petite_Women|Fashion Hoodies & Sweatshirts_Petite_Women|3530.0
+Sweaters_Clothing_Men|Sweaters_Clothing_Men|98.0555555556
+Sweaters_Clothing_Men|Gloves & Mittens_Accessories_Women|73.5416666667
+Tops & Tees_Plus-Size_Women|Tops & Tees_Plus-Size_Women|1176.66666667
+Earrings_Jewelry_Men|Boots_Shoes_Women|40.5747126437
+Earrings_Jewelry_Men|Athletic_Shoes_Men|65.3703703704
+Earrings_Jewelry_Men|Fashion_Jewelry_Women|65.3703703704
+Wallets, Card Cases & Money Organizers_Accessories_Women|Wallets, Card Cases & Money Organizers_Accessories_Women|130.740740741
+Wallets, Card Cases & Money Organizers_Accessories_Women|Pants_Clothing_Men|43.5802469136
+Intimates_Plus-Size_Women|Intimates_Plus-Size_Women|3530.0
+Dresses_Maternity_Women|Dresses_Maternity_Women|1176.66666667
+Hats & Caps_Accessories_Women|Hats & Caps_Accessories_Women|58.347107438
+Hats & Caps_Accessories_Women|Fine_Jewelry_Women|4.65085638999
+Hats & Caps_Accessories_Women|Sandals_Shoes_Women|5.17595307918
+Hats & Caps_Accessories_Women|Loafers & Slip-Ons_Shoes_Women|32.0909090909
+Hats & Caps_Accessories_Women|Belts_Accessories_Men|17.8282828283
+Hats & Caps_Accessories_Women|Fashion_Jewelry_Women|26.7424242424
+Hats & Caps_Accessories_Women|Wedding Rings_Jewelry_Men|64.1818181818
+Rings_Jewelry_Men|Rings_Jewelry_Men|144.081632653
+Rings_Jewelry_Men|Bracelets_Jewelry_Men|84.0476190476
+Slippers_Shoes_Men|Slippers_Shoes_Men|180.102040816
+Slippers_Shoes_Men|Leggings_Clothing_Women|56.0317460317
+Athletic_Shoes_Women|Athletic_Shoes_Women|24.4290657439
+Athletic_Shoes_Women|Jackets & Coats_Plus-Size_Women|69.2156862745
+Athletic_Shoes_Women|Athletic_Shoes_Men|5.76797385621
+Athletic_Shoes_Women|Wristlets_Handbags & Wallets_Women|25.9558823529
+Athletic_Shoes_Women|Active_Clothing_Women|12.214532872
+Athletic_Shoes_Women|Jeans_Clothing_Women|31.9457013575
+Athletic_Shoes_Women|Cross-Body Bags_Handbags & Wallets_Women|51.9117647059
+Boots_Shoes_Women|Boots_Shoes_Women|4.19738406659
+Boots_Shoes_Women|Sandals_Shoes_Women|11.7797552836
+Boots_Shoes_Women|Gloves & Mittens_Accessories_Men|24.3448275862
+Boots_Shoes_Women|Loafers & Slip-Ons_Shoes_Women|18.2586206897
+Boots_Shoes_Women|Shoulder Bags_Handbags & Wallets_Women|5.5329153605
+Boots_Shoes_Women|Suits & Blazers_Clothing_Women|24.3448275862
+Boots_Shoes_Women|Flats_Shoes_Women|7.16024340771
+Boots_Shoes_Women|Fashion_Jewelry_Women|6.76245210728
+Boots_Shoes_Women|Lingerie, Sleep & Lounge_Clothing_Women|4.34729064039
+Boots_Shoes_Women|Wedding Rings_Jewelry_Men|24.3448275862
+Boots_Shoes_Women|Fashion Sneakers_Shoes_Women|8.69458128079
+Skirts_Clothing_Women|Skirts_Clothing_Women|72.9338842975
+Skirts_Clothing_Women|Pumps_Shoes_Women|3.64669421488
+Skirts_Clothing_Women|Socks & Hosiery_Clothing_Women|13.3712121212
+Loafers & Slip-Ons_Shoes_Men|Loafers & Slip-Ons_Shoes_Men|29.173553719
+Loafers & Slip-Ons_Shoes_Men|Underwear_Clothing_Men|22.9220779221
+Loafers & Slip-Ons_Shoes_Men|Fashion_Jewelry_Women|17.8282828283
+Loafers & Slip-Ons_Shoes_Men|Boots_Shoes_Men|24.6853146853
+Socks & Hosiery_Petite_Women|Socks & Hosiery_Petite_Women|392.222222222
+Socks & Hosiery_Petite_Women|Boots_Shoes_Men|45.2564102564
+Sweaters_Plus-Size_Women|Sweaters_Plus-Size_Women|3530.0
+Jeans_Petite_Women|Jeans_Petite_Women|3530.0
+Fine_Jewelry_Women|Outdoor_Shoes_Women|3.19746376812
+Fine_Jewelry_Women|Loafers & Slip-Ons_Shoes_Women|7.67391304348
+Fine_Jewelry_Women|Outdoor_Shoes_Men|21.9254658385
+Fine_Jewelry_Women|Fashion_Jewelry_Women|18.7584541063
+Fine_Jewelry_Women|Lingerie, Sleep & Lounge_Clothing_Women|5.48136645963
+Fine_Jewelry_Women|Boots_Shoes_Men|11.8060200669
+Fine_Jewelry_Women|Socks & Hosiery_Clothing_Women|12.7898550725
+Fine_Jewelry_Women|Oxfords_Shoes_Women|30.6956521739
+Intimates_Maternity_Women|Intimates_Maternity_Women|70.6
+Intimates_Maternity_Women|Pants & Capris_Maternity_Women|141.2
+Intimates_Maternity_Women|Swim_Petite_Women|70.6
+Sweaters_Petite_Women|Sweaters_Petite_Women|1765.0
+Mules & Clogs_Shoes_Women|Mules & Clogs_Shoes_Women|58.347107438
+Mules & Clogs_Shoes_Women|Loafers & Slip-Ons_Shoes_Women|32.0909090909
+Mules & Clogs_Shoes_Women|Fashion Sneakers_Shoes_Women|19.1017316017
+Sandals_Shoes_Women|Sandals_Shoes_Women|3.67325702393
+Sandals_Shoes_Women|Tops & Tees_Clothing_Women|2.27741935484
+Sandals_Shoes_Women|Loafers & Slip-Ons_Shoes_Women|5.6935483871
+Sandals_Shoes_Women|Sandals_Shoes_Men|6.32616487455
+Gloves & Mittens_Accessories_Men|Gloves & Mittens_Accessories_Men|564.8
+Gloves & Mittens_Accessories_Men|Fashion Hoodies & Sweatshirts_Clothing_Men|117.666666667
+Gloves & Mittens_Accessories_Men|Wrist Watches_Watches_Men|12.6071428571
+Bow Ties & Cummerbunds_Accessories_Men|Bow Ties & Cummerbunds_Accessories_Men|220.625
+Bow Ties & Cummerbunds_Accessories_Men|Outdoor_Shoes_Men|126.071428571
+Leggings_Petite_Women|Leggings_Petite_Women|3530.0
+Leggings_Petite_Women|Dresses_Clothing_Women|147.083333333
+Watch Bands_Watches_Women|Watch Bands_Watches_Women|141.2
+Watch Bands_Watches_Women|Athletic_Shoes_Men|39.2222222222
+Watch Bands_Watches_Women|Belts_Accessories_Men|78.4444444444
+Watch Bands_Watches_Women|Jeans_Clothing_Men|39.2222222222
+Fashion Sneakers_Shoes_Men|Fashion Sneakers_Shoes_Men|73.5416666667
+Fashion Sneakers_Shoes_Men|Athletic_Shoes_Men|16.3425925926
+Fashion Sneakers_Shoes_Men|Underwear_Clothing_Men|28.0158730159
+Fashion Sneakers_Shoes_Men|Scarves & Wraps_Accessories_Women|24.5138888889
+Shorts_Maternity_Women|Shorts_Maternity_Women|3530.0
+Outdoor_Shoes_Women|Outdoor_Shoes_Women|98.0555555556
+Outdoor_Shoes_Women|Jeans_Clothing_Women|5.02849002849
+Tops & Tees_Clothing_Women|Tops & Tees_Clothing_Women|8.472
+Tops & Tees_Clothing_Women|Leggings_Clothing_Women|15.6888888889
+Tops & Tees_Clothing_Women|Active_Clothing_Women|8.30588235294
+Tops & Tees_Clothing_Women|Sweaters_Clothing_Women|35.3
+Tops & Tees_Clothing_Women|Pumps_Shoes_Women|3.20909090909
+Tops & Tees_Clothing_Women|Lingerie, Sleep & Lounge_Clothing_Women|5.04285714286
+Tops & Tees_Clothing_Women|Socks & Hosiery_Clothing_Women|27.4555555556
+Tops & Tees_Clothing_Women|Jeans_Clothing_Women|5.43076923077
+Active_Big & Tall_Men|Active_Big & Tall_Men|3530.0
+Keyrings & Keychains_Accessories_Women|Keyrings & Keychains_Accessories_Women|3530.0
+Tie Clips_Jewelry_Men|Tie Clips_Jewelry_Men|882.5
+Tie Clips_Jewelry_Men|Neckties_Accessories_Men|504.285714286
+Neckties_Accessories_Men|Neckties_Accessories_Men|72.0408163265
+Neckties_Accessories_Men|Pants_Clothing_Men|14.0079365079
+Jackets & Coats_Plus-Size_Women|Jackets & Coats_Plus-Size_Women|3530.0
+Wrist Watches_Watches_Women|Wrist Watches_Watches_Women|6.32093663912
+Wrist Watches_Watches_Women|Leggings_Clothing_Women|1.98092031425
+Wrist Watches_Watches_Women|Active_Clothing_Women|9.4385026738
+Wrist Watches_Watches_Women|Lingerie, Sleep & Lounge_Clothing_Women|2.86525974026
+Wrist Watches_Watches_Women|Jeans_Clothing_Women|6.17132867133
+Wrist Watches_Watches_Women|Cuff Links_Jewelry_Men|80.2272727273
+Swim_Maternity_Women|Swim_Maternity_Women|3530.0
+Loafers & Slip-Ons_Shoes_Women|Loafers & Slip-Ons_Shoes_Women|105.9
+Loafers & Slip-Ons_Shoes_Women|Belts_Accessories_Men|9.80555555556
+Loafers & Slip-Ons_Shoes_Women|Flats_Shoes_Women|10.3823529412
+Fashion Hoodies & Sweatshirts_Clothing_Men|Fashion Hoodies & Sweatshirts_Clothing_Men|98.0555555556
+Fashion Hoodies & Sweatshirts_Clothing_Men|Jeans_Clothing_Men|65.3703703704
+Fashion Hoodies & Sweatshirts_Clothing_Men|Shirts_Clothing_Men|30.9649122807
+Fashion Hoodies & Sweatshirts_Clothing_Men|Boots_Shoes_Men|45.2564102564
+Clothing_Surf, Skate & Street_Men|Sunglasses & Eyewear Accessories_Accessories_Women|98.0555555556
+Clothing_Surf, Skate & Street_Men|Shirts_Clothing_Men|46.4473684211
+Clothing_Surf, Skate & Street_Men|Pants_Clothing_Men|98.0555555556
+Mules & Clogs_Shoes_Men|Mules & Clogs_Shoes_Men|220.625
+Mules & Clogs_Shoes_Men|Belts_Accessories_Men|12.2569444444
+Mules & Clogs_Shoes_Men|Wallets, Card Cases & Money Organizers_Accessories_Men|29.4166666667
+Mules & Clogs_Shoes_Men|Pants_Clothing_Men|6.53703703704
+Sunglasses & Eyewear Accessories_Accessories_Women|Sunglasses & Eyewear Accessories_Accessories_Women|73.5416666667
+Sunglasses & Eyewear Accessories_Accessories_Women|Wrist Watches_Watches_Men|10.505952381
+Jeans_Plus-Size_Women|Jeans_Plus-Size_Women|3530.0
+Jeans_Plus-Size_Women|Suits & Blazers_Clothing_Women|706.0
+Swim_Clothing_Men|Swim_Clothing_Men|72.0408163265
+Pants_Clothing_Women|Socks_Clothing_Men|49.0277777778
+Suspenders_Accessories_Men|Suspenders_Accessories_Men|1176.66666667
+Leggings_Clothing_Women|Leggings_Clothing_Women|188.847736626
+Leggings_Clothing_Women|Active_Clothing_Women|11.5359477124
+Athletic_Shoes_Men|Athletic_Shoes_Men|14.5267489712
+Athletic_Shoes_Men|Wallets, Card Cases & Money Organizers_Accessories_Men|19.6111111111
+Intimates_Petite_Women|Intimates_Petite_Women|1765.0
+Handbag Accessories_Accessories_Women|Handbag Accessories_Accessories_Women|392.222222222
+Underwear_Clothing_Men|Underwear_Clothing_Men|72.0408163265
+Underwear_Clothing_Men|Jeans_Clothing_Men|9.33862433862
+Underwear_Clothing_Men|Shirts_Clothing_Men|26.5413533835
+Underwear_Clothing_Men|Socks_Clothing_Men|31.5178571429
+Underwear_Clothing_Men|Scarves_Accessories_Men|42.0238095238
+Underwear_Clothing_Men|Pumps_Shoes_Women|5.73051948052
+Underwear_Clothing_Men|Sandals_Shoes_Men|28.0158730159
+Shoulder Bags_Handbags & Wallets_Women|Shoulder Bags_Handbags & Wallets_Women|29.173553719
+Shoulder Bags_Handbags & Wallets_Women|Clutches_Handbags & Wallets_Women|64.1818181818
+Shoulder Bags_Handbags & Wallets_Women|Cross-Body Bags_Handbags & Wallets_Women|40.1136363636
+Shoulder Bags_Handbags & Wallets_Women|Fashion Sneakers_Shoes_Women|11.461038961
+Swimsuits & Cover Ups_Juniors_Women|Swimsuits & Cover Ups_Juniors_Women|3530.0
+Wristlets_Handbags & Wallets_Women|Wristlets_Handbags & Wallets_Women|661.875
+Outdoor_Shoes_Men|Outdoor_Shoes_Men|36.0204081633
+Outdoor_Shoes_Men|Oxfords_Shoes_Men|56.0317460317
+Necklaces_Jewelry_Men|Necklaces_Jewelry_Men|196.111111111
+Necklaces_Jewelry_Men|Wallets, Card Cases & Money Organizers_Accessories_Men|58.8333333333
+Belts_Accessories_Men|Belts_Accessories_Men|43.5802469136
+Jeans_Clothing_Men|Jeans_Clothing_Men|43.5802469136
+Jeans_Clothing_Men|Wrist Watches_Watches_Men|0.583664021164
+Jeans_Clothing_Men|Shirts_Clothing_Men|20.6432748538
+Jeans_Clothing_Men|Active_Clothing_Women|11.5359477124
+Pocket Watches_Watches_Women|Pocket Watches_Watches_Women|1765.0
+Pocket Watches_Watches_Women|Wrist Watches_Watches_Men|21.0119047619
+Wrist Watches_Watches_Men|Wrist Watches_Watches_Men|33.018707483
+Wrist Watches_Watches_Men|Scarves_Accessories_Men|42.0238095238
+Wrist Watches_Watches_Men|Pants_Clothing_Men|14.0079365079
+Wrist Watches_Watches_Men|Boots_Shoes_Men|9.6978021978
+Swim_Petite_Women|Swim_Petite_Women|882.5
+Shirts_Clothing_Men|Shirts_Clothing_Men|9.7783933518
+Shirts_Clothing_Men|Fashion_Jewelry_Women|10.3216374269
+Shirts_Clothing_Men|Boots_Shoes_Men|14.2914979757
+Watches_Surf, Skate & Street_Men|Watches_Surf, Skate & Street_Men|3530.0
+Pants & Capris_Petite_Women|Pants & Capris_Petite_Women|3530.0
+Coats & Jackets_Clothing_Women|Swimsuits & Cover Ups_Clothing_Women|12.2569444444
+Coats & Jackets_Clothing_Women|Sweaters_Clothing_Women|24.5138888889
+Coats & Jackets_Clothing_Women|Oxfords_Shoes_Women|29.4166666667
+Sweaters_Maternity_Women|Sweaters_Maternity_Women|3530.0
+Sweaters_Maternity_Women|Tops & Tees_Maternity_Women|1176.66666667
+Socks_Clothing_Men|Socks_Clothing_Men|165.46875
+Socks_Clothing_Men|Cross-Body Bags_Handbags & Wallets_Women|55.15625
+Tops & Tees_Maternity_Women|Tops & Tees_Maternity_Women|784.444444444
+Tops & Tees_Maternity_Women|Scarves & Wraps_Accessories_Women|196.111111111
+Shirt Studs_Jewelry_Men|Shirt Studs_Jewelry_Men|3530.0
+Active_Clothing_Women|Swimsuits & Cover Ups_Clothing_Women|14.4199346405
+Active_Clothing_Women|Sweaters_Clothing_Women|8.65196078431
+Active_Clothing_Women|Lingerie, Sleep & Lounge_Clothing_Women|14.8319327731
+Pants & Capris_Plus-Size_Women|Pants & Capris_Plus-Size_Women|3530.0
+Dresses_Clothing_Women|Dresses_Clothing_Women|19.9175347222
+Dresses_Clothing_Women|Suits & Blazers_Clothing_Women|29.4166666667
+Dresses_Clothing_Women|Swimsuits & Cover Ups_Clothing_Women|6.12847222222
+Dresses_Clothing_Women|Fashion_Jewelry_Women|8.1712962963
+Suits & Blazers_Clothing_Women|Fashion_Jewelry_Women|39.2222222222
+Scarves & Wraps_Accessories_Women|Lingerie, Sleep & Lounge_Clothing_Women|1.63425925926
+Scarves & Wraps_Accessories_Women|Cross-Body Bags_Handbags & Wallets_Women|36.7708333333
+Oxfords_Shoes_Men|Oxfords_Shoes_Men|87.1604938272
+Oxfords_Shoes_Men|Pants_Clothing_Men|14.5267489712
+Swimsuits & Cover Ups_Clothing_Women|Swimsuits & Cover Ups_Clothing_Women|24.5138888889
+Swimsuits & Cover Ups_Clothing_Women|Flats_Shoes_Women|17.3039215686
+Pants_Clothing_Men|Socks & Hosiery_Clothing_Women|16.3425925926
+Flats_Shoes_Women|Flats_Shoes_Women|36.6435986159
+Flats_Shoes_Women|Skirts_Petite_Women|51.9117647059
+Flats_Shoes_Women|Jeans_Clothing_Women|0.998303167421
+Skirts_Petite_Women|Skirts_Petite_Women|882.5
+Nursing_Maternity_Women|Nursing_Maternity_Women|3530.0
+Sweaters_Clothing_Women|Sweaters_Clothing_Women|24.5138888889
+Sweaters_Clothing_Women|Pumps_Shoes_Women|26.7424242424
+Sweaters_Clothing_Women|Lingerie, Sleep & Lounge_Clothing_Women|12.6071428571
+Sweaters_Clothing_Women|Jeans_Clothing_Women|22.6282051282
+Sweaters_Clothing_Women|Religious_Jewelry_Women|49.0277777778
+Evening Bags_Handbags & Wallets_Women|Evening Bags_Handbags & Wallets_Women|110.3125
+Pumps_Shoes_Women|Pumps_Shoes_Women|54.7004132231
+Fashion_Jewelry_Women|Fashion_Jewelry_Women|27.237654321
+Fashion_Jewelry_Women|Fashion Sneakers_Shoes_Women|14.0079365079
+Sleep & Lounge_Petite_Women|Sleep & Lounge_Petite_Women|3530.0
+Suits & Sport Coats_Clothing_Men|Suits & Sport Coats_Clothing_Men|98.0555555556
+Lingerie, Sleep & Lounge_Clothing_Women|Lingerie, Sleep & Lounge_Clothing_Women|4.50255102041
+Lingerie, Sleep & Lounge_Clothing_Women|Fashion Sneakers_Shoes_Women|4.50255102041
+Boots_Shoes_Men|Boots_Shoes_Men|20.8875739645
+Socks & Hosiery_Clothing_Women|Socks & Hosiery_Clothing_Women|36.7708333333
+Socks & Hosiery_Clothing_Women|Cross-Body Bags_Handbags & Wallets_Women|36.7708333333
+Jeans_Clothing_Women|Jeans_Clothing_Women|54.3076923077
+Cross-Body Bags_Handbags & Wallets_Women|Cross-Body Bags_Handbags & Wallets_Women|55.15625
+Wedding Rings_Jewelry_Men|Wedding Rings_Jewelry_Men|141.2
+Sandals_Shoes_Men|Sandals_Shoes_Men|21.7901234568
+Fashion Sneakers_Shoes_Women|Fashion Sneakers_Shoes_Women|18.0102040816
+Shorts_Clothing_Men|Shorts_Clothing_Men|72.0408163265
+Oxfords_Shoes_Women|Oxfords_Shoes_Women|141.2
